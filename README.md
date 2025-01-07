@@ -1,6 +1,7 @@
 # Baby-Name-Validator
 
 https://www.wordsapi.com/
+https://www.npmjs.com/package/datamuse
 https://wordassociations.net/en/api
 
 Below is a rough blueprint of how you might design your “Baby Name Validator” application in Next.js using Material UI (MUI). This plan covers both the front-end and back-end conceptual architectures, as well as suggestions on how to integrate an external API that provides name data (culture associations, nicknames, gender perception, etc.).
